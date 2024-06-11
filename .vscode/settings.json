@@ -1,0 +1,10 @@
+{
+    "typescript.validate.enable": false,
+    "javascript.validate.enable": false,
+    "vue.validate.template": false,
+    "vue.validate.style": false,
+    "vue.validate.script": false,
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false
+  }
